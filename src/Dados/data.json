@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "desc": "Iphone 16-rosa",
+        "imagem": "../../public/16rosa.jpg",
+        "valor": "$8500,00"
+    },
+    {
+    
+        "id":1,
+        "desc": "Iphone 16-preto",
+        "imagem": "../../public/16preto.jpg",
+        "valor": "$7800,00"
+    },
+    {
+        
+        "id":1,
+        "desc": "Iphone 16-azul",
+        "imagem": "../../public/iphone16azull.jpg",
+        "valor": "$7900,00"
+
+    }
+    
+]
